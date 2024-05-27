@@ -1,4 +1,3 @@
-### Всем привет!
 ### Java backend developer
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
