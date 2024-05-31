@@ -1,4 +1,16 @@
-### Java backend developer
+### IOS developer
+` Swift`  ` SwiftUI`   ` Objective-C`\
+` StoryBoard`  ` Xib`\
+` Realm`  ` CoreData`\
+` MVC`  ` MVVM`  ` MVP`\
+` UIKit`  ` AVKit`\
+` SPM`  ` CocoaPods`\
+` GCD`  ` ARC`\
+` Revenue Cat`  ` StoreKit`\
+` Firebase`  ` AppMetrica`\
+` Git`  ` Xcode`
+
+### Java backend developer 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
 ![Hibernate](https://img.shields.io/badge/HIBERNATE-121011.svg?&style=flat&logo=red-hat&logoColor=white)&nbsp;\
@@ -18,6 +30,7 @@
 
 ### Обо Мне:
 Занимаюсь программированием с 2015 года.\
+Большая часть коммерческого опыта - программирование под IOS.
 Живу в России.
 
 **[Telegram](https://t.me/Djirro)** для связи по любым вопросам.
