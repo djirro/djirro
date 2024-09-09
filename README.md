@@ -1,14 +1,14 @@
 
 ### IOS developer
-` Swift`  ` SwiftUI`   ` Objective-C`\
+` Swift`  ` Objective-C`\
+` UIKit`  ` SwiftUI` \
 ` StoryBoard`  ` Xib`\
-` Realm`  ` CoreData`\
 ` MVC` \
-` UIKit`  ` AVKit`\
-` SPM`  ` CocoaPods`\
+` Realm`  ` CoreData`\
 ` GCD`  ` ARC`\
 ` Revenue Cat`  ` StoreKit`\
 ` Firebase`  ` AppMetrica`\
+` SPM`  ` CocoaPods`\
 ` Git`  ` Xcode`
 
 ### Java backend developer 
