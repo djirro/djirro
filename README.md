@@ -3,7 +3,7 @@
 ` Swift`  ` Objective-C`\
 ` UIKit`  ` SwiftUI` \
 ` StoryBoard`  ` Xib`\
-` MVC` \  ` MVVM`
+` MVC`   ` MVVM`\
 ` Realm`  ` CoreData`\
 ` GCD`  ` ARC`\
 ` Revenue Cat`  ` StoreKit`\
